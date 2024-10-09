@@ -3,6 +3,7 @@ hey there 👋 I’m @pooja-jain25 - Pooja Jain
 - 👀 I’m interested in product management & software engineering
 - 🌱 I’m currently learning Algorithms, Product Management, and AI
 - 📫 How to reach me: pjain25@berkeley.edu
+- 🌐 LinkedIn: www.linkedin.com/in/pooja-jain-
 - ⚡️ Fun fact: Have been a classical dancer for 13 years!
 
 ---
